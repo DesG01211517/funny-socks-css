@@ -5,3 +5,13 @@ Your task is to apply CSS styling to the provided HTML to recreate the appearanc
 ![example screenshot](./example-screenshot.png)
 
 
+INCLUDES:
+
+index.html - the homepage
+CSS for styling
+
+Author: Desmon Garrison email: desmongarrison2@gmail.com
+
+Acknowledgements
+https://www.w3schools.com/tags/default.asp
+
