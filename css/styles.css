@@ -1,9 +1,4 @@
-.roboto-bold {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-}   
-html {
+ html {
 /* CSS HEX */
 --bright-pink-crayola: #ef476fff;
 --sunglow: #ffd166ff;
@@ -34,4 +29,11 @@ li {
     display: inline-block;
     text-align: center;
     padding: 13px;
+}
+img {
+    height: 100px;
+    width: 200px;
+}
+product {
+    background-color: sunglow;
 }
