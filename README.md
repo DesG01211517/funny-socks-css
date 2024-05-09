@@ -9,6 +9,7 @@ index.html - the homepage
 CSS for styling
 
 Author: Desmon Garrison email: desmongarrison2@gmail.com
-
-Acknowledgements
+-
+-
+Acknowledgements:
 https://www.w3schools.com/tags/default.asp
