@@ -1,3 +1,8 @@
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}   
 html {
 /* CSS HEX */
 --bright-pink-crayola: #ef476fff;
@@ -6,12 +11,17 @@ html {
 --blue-ncs: #118ab2ff;
 --midnight-green: #073b4cff;
 }
+body{ font-family: "roboto", sans-serif;;}
 
-header {background-color: #ef476fff;}
+header {
+    background-color: #ef476fff;
+    font-family: roboto-bold;
+}
 
 h1 {
     color: white;
     font-size: 45px;
+    font-family: "roboto", sans-serif;
     text-align: center;}
 
 
