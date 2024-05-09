@@ -4,11 +4,12 @@ Your task is to apply CSS styling to the provided HTML to recreate the appearanc
 
 ![example screenshot](./example-screenshot.png)
 INCLUDES:
-
-index.html - the homepage
-CSS for styling
+-[X]-index.html - the homepage
+-[X]-CSS for styling
 
 Author: Desmon Garrison email: desmongarrison2@gmail.com
 
-Acknowledgements
+Acknowledgements:
+CodeX
+Teacher: Thomas Basham /Fernando 
 https://www.w3schools.com/tags/default.asp

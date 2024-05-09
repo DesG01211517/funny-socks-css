@@ -1,6 +1,39 @@
+ html {
 /* CSS HEX */
---argentinian-blue: #5aa9e6ff;
---light-sky-blue: #7fc8f8ff;
---sea salt #f9f9f9ff;
---naples-yellow: #ffe45eff;
---cyclamen: #ff6392ff;
+--bright-pink-crayola: #ef476fff;
+--sunglow: #ffd166ff;
+--emerald: #06d6a0ff;
+--blue-ncs: #118ab2ff;
+--midnight-green: #073b4cff;
+}
+body{ font-family: "roboto", sans-serif;;}
+
+header {
+    background-color: #ef476fff;
+    font-family: roboto-bold;
+}
+
+h1 {
+    color: white;
+    font-size: 45px;
+    font-family: "roboto", sans-serif;
+    text-align: center;}
+
+
+ul {
+    text-align: center;
+}
+li {
+    font-size: 15px;
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    padding: 13px;
+}
+img {
+    height: 100px;
+    width: 200px;
+}
+product {
+    background-color: sunglow;
+}
