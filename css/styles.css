@@ -5,15 +5,24 @@
 --emerald: #06d6a0ff;
 --blue-ncs: #118ab2ff;
 --midnight-green: #073b4cff;
+
 }
-body{ font-family: "roboto", sans-serif;;}
+body{ font-family: "roboto", sans-serif;
+    padding: 3;
+    margin: 10;
+
+
+}
 
 header {
     background-color: #ef476fff;
     font-family: roboto-bold;
+    padding: 0;
+    margin: 4;
 }
 
 h1 {
+    border: 1;
     color: white;
     font-size: 45px;
     font-family: "roboto", sans-serif;
@@ -31,8 +40,31 @@ li {
     padding: 13px;
 }
 img {
-    height: 100px;
-    width: 200px;
+    height: 150px;
+    width: 250px;
 }
-product {
-    background-color: #ffd166ff;}
+.product {
+    background-color: #ffd166ff;
+padding: 3;
+margin:4;}
+h2 {
+    padding-bottom: 3px;
+    background-color: white;
+}
+home{
+    padding: 2;
+    margin: 4;
+}
+#addButton {
+    background-color: greenyellow ;
+    margin: 5;
+    padding: 7;
+
+}
+footer {
+    height: 300px;
+    width: 97%;
+    margin: 0;
+    text-align: center; color: white;
+    background-color: darkolivegreen ;
+}
